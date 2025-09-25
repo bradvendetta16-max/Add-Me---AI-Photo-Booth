@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Booth: Add Me",
+  "description": "An AI-powered photo editor that seamlessly adds a person into a group photo, just like they were there all along. Upload a group photo and a separate photo of the photographer, and let the AI work its magic.",
+  "requestFramePermissions": []
+}
